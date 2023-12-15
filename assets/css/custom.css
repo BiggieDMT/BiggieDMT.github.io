@@ -1,0 +1,11 @@
+/*
+Custom Css
+
+*/
+.hidden {
+	display: none;
+}
+
+#imagen-desktop{
+    height: auto;
+}
